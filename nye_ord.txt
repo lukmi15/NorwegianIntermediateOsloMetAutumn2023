@@ -1,0 +1,8 @@
+# vim: ft=sh nospell
+* Bunad -> drakt
+* Dugnad -> arbeid i nabolaget
+* innpust
+* fiskepinne
+* en ørken -> område uten vegtasjon
+* fallsjkerm
+* strikkhopp

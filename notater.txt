@@ -1,0 +1,20 @@
+# vim: ft=sh nospell
+* Organisatorisk:
+	* Lærer: Lillian Vikmoen
+	* Siste undervisningdag: 15.11.
+	* Ikke kurs på 2. og 4.10.
+	* Eksamene:
+		* Skriftlig: 20.11. kl. 9 til 40
+		* Muntlig: 23.11. kl. 15 til 20
+			* 15 minutter pr. student i P52 F321
+
+* Lekser:
+	* Repitere kapitel 1 til 10
+	* Lese 131 til 132 i tekstboka
+	* Lese 126 til 127 i tekstboka
+* Spørsmål:
+	* Fins det en regl når ord kan sluttes med -a?
+		* For verber er det dialekt - det funker med alle verbene
+		* For substantiv er det irregular
+	* Er "i natt" natten fra i går til i dag eller fra i dag til i morgen?
+		* For jeg leste "Null sovn i natt" og det mente siste natt
