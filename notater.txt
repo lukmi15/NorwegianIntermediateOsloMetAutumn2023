@@ -17,11 +17,11 @@
 		* noen
 		* få
 * Preteritum i verber:
-	* 2 konsonanter mellom vokalene -> regulare verb -T("gruppe 1")
+	* 2 konsonanter mellom vokalene -> regulare verb ("gruppe 1")
 	* 1 konsonant mellom vokalene -> uregulare verb ("gruppe 2")
 		* Eller "ll", "mm", "nn"
 	* 2 vokaler sammen ("eller v og g") -> -"de"
-	* ... #For vanskelig, jeg skal lære med følelsen
+	* ... #For vanskelig, jeg skal bruke følelsen
 * Presens preteritum brukes når noe startet før, men fortsetter nå
 
 * Lekser:
@@ -37,7 +37,7 @@
 		* Fins det en regl når ord kan sluttes med -a?
 			> For verber er det dialekt - det funker med alle verbene
 			> For substantiv er det irregular
-		* Når brukes "noe" og nå "noen"? Trodde "noe" brukes når ojektet er intetkjønn eller i flertall og "noen" ellers (Arbeidsboka s. 131: "Men jeg har noen norske venner, og og de går ikke på tur.")
+		* Når brukes "noe" og når "noen"? Trodde "noe" brukes når ojektet er intetkjønn eller i flertall og "noen" ellers (Arbeidsboka s. 131: "Men jeg har noen norske venner, og og de går ikke på tur.")
 			> noe: noe du ikke kan telle
 			> noe: noe du kan telle
 		* Er "i natt" natten fra i går til i dag eller fra i dag til i morgen?
