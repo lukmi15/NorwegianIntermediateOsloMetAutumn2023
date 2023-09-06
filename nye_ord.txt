@@ -6,3 +6,8 @@
 * en ørken -> område uten vegtasjon
 * fallsjkerm
 * strikkhopp
+* et rullebrett -> et skateboard
+* ei kule -> tredimensional sirkel
+* en dråpe / et drypp -> vannkule
+* ei tåke -> vanndrypp i luften men ikke regn, forårsaker dårlig sikt
+* iallfall -> i hvert fall
