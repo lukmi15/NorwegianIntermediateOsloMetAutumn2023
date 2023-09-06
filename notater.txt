@@ -7,13 +7,39 @@
 		* Skriftlig: 20.11. kl. 9 til 40
 		* Muntlig: 23.11. kl. 15 til 20
 			* 15 minutter pr. student i P52 F321
+* Utellelig og tellelig:
+	* Utellelig:
+		* mye
+		* noe
+		* lite
+	* Tellelig:
+		* mange
+		* noen
+		* få
+* Preteritum i verber:
+	* 2 konsonanter mellom vokalene -> regulare verb -T("gruppe 1")
+	* 1 konsonant mellom vokalene -> uregulare verb ("gruppe 2")
+		* Eller "ll", "mm", "nn"
+	* 2 vokaler sammen ("eller v og g") -> -"de"
+	* ... #For vanskelig, jeg skal lære med følelsen
+* Presens preteritum brukes når noe startet før, men fortsetter nå
 
 * Lekser:
+	* Lese side 126-127 i tekstboka
+	* Lese side 127-130 i tekstboka
+	* Oppgave 3 side 140-141 i arbeidsboka
+	* Oppgave 7 side 143 i arbeidsboka
+	* Oppgave 11-15 side 144-146 i arbeidsbok
+	* Oppgave 18 side 148 i arbeidsboka
+	* Oppgaver repetisjon preteritum
 * Spørsmål:
-	* Er "i natt" natten fra i går til i dag eller fra i dag til i morgen?
-		* For jeg leste "Null sovn i natt" og det mente siste natt
-	* Når brukes "noe" og nå "noen"? Trodde "noe" brukes når ojektet er intetkjønn eller i flertall og "noen" ellers (Arbeidsboka s. 131: "Men jeg har noen norske venner, og og de går ikke på tur.")
 	* Svart:
 		* Fins det en regl når ord kan sluttes med -a?
 			> For verber er det dialekt - det funker med alle verbene
 			> For substantiv er det irregular
+		* Når brukes "noe" og nå "noen"? Trodde "noe" brukes når ojektet er intetkjønn eller i flertall og "noen" ellers (Arbeidsboka s. 131: "Men jeg har noen norske venner, og og de går ikke på tur.")
+			> noe: noe du ikke kan telle
+			> noe: noe du kan telle
+		* Er "i natt" natten fra i går til i dag eller fra i dag til i morgen?
+			* For jeg leste "Null søvn i natt" og det mente siste natt
+			> Kan være begge
