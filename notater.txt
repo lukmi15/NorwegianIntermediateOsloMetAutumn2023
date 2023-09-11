@@ -25,8 +25,9 @@
 * Presens preteritum brukes når noe startet før, men fortsetter nå
 
 * Lekser:
+	* Lese alle tekstene i tekstboka til kapittel 10
+	* Gjøre ferdig alle oppgavene i arbeidsboka kapittel 10
 * Spørsmål:
-	* Når brukes ett med to t?
 	* Svart:
 		* Fins det en regl når ord kan sluttes med -a?
 			> For verber er det dialekt - det funker med alle verbene
@@ -37,3 +38,6 @@
 		* Er "i natt" natten fra i går til i dag eller fra i dag til i morgen?
 			* For jeg leste "Null søvn i natt" og det mente siste natt
 			> Kan være begge
+		* Når brukes ett med to t?
+			* "ett" er et tall
+			* "et" er et artikel
