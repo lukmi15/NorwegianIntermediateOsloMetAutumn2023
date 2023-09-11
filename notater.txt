@@ -25,14 +25,8 @@
 * Presens preteritum brukes når noe startet før, men fortsetter nå
 
 * Lekser:
-	* Lese side 126-127 i tekstboka
-	* Lese side 127-130 i tekstboka
-	* Oppgave 3 side 140-141 i arbeidsboka
-	* Oppgave 7 side 143 i arbeidsboka
-	* Oppgave 11-15 side 144-146 i arbeidsbok
-	* Oppgave 18 side 148 i arbeidsboka
-	* Oppgaver repetisjon preteritum
 * Spørsmål:
+	* Når brukes ett med to t?
 	* Svart:
 		* Fins det en regl når ord kan sluttes med -a?
 			> For verber er det dialekt - det funker med alle verbene
