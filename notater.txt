@@ -25,9 +25,8 @@
 * Presens preteritum brukes når noe startet før, men fortsetter nå
 
 * Lekser:
-	* Lese alle tekstene i tekstboka til kapittel 10
-	* Gjøre ferdig alle oppgavene i arbeidsboka kapittel 10
 * Spørsmål:
+	* Hva betyr "Matanmeldere blir anmeldt."?
 	* Svart:
 		* Fins det en regl når ord kan sluttes med -a?
 			> For verber er det dialekt - det funker med alle verbene
