@@ -23,10 +23,26 @@
 	* 2 vokaler sammen ("eller v og g") -> -"de"
 	* ... #For vanskelig, jeg skal bruke følelsen
 * Presens preteritum brukes når noe startet før, men fortsetter nå
+* Leddsetninger:
+	* Med "at", "om", "fordi", "når", "da", "før" og "hvis"
+	* "ikke", "alltid" og "aldri" må være foran verbet!
+		* Vanligvis kommer det etter verbet!
+	* Eksepmpler:
+		* Han sier at han ikke liker Olso.
+		* Hun spør meg om jeg sykler.
+		* Jeg har ikke fyr fordi jeg ikke røyker.
+		* Jeg går på tur når været er bra.
+		* Jeg jobbet som lærer da jeg bodde i USA.
+		* Jeg jobbet som lærer før jeg flyttet til Norge.
+		* Jeg blir glad hvis du ringer i kveld.
+* "når" brukes i fremtid og presens og "da" i preteritum
+	* Det var mørkt da jeg gikk til skolen.
+	* Det er mørkt når jeg går til skolen.
+	* Det skal bli regn når vi skal på ferie.
+* I leddsetninger med atbrukes 
 
 * Lekser:
 * Spørsmål:
-	* Hva betyr "Matanmeldere blir anmeldt."?
 	* Svart:
 		* Fins det en regl når ord kan sluttes med -a?
 			> For verber er det dialekt - det funker med alle verbene
@@ -40,3 +56,7 @@
 		* Når brukes ett med to t?
 			* "ett" er et tall
 			* "et" er et artikel
+		* Hva betyr "Matanmeldere blir anmeldt."?
+			* Det har dobbelt betydning:
+				* De som vurderer mat blir politianmeldt (mindre sannsynlig)
+				* De som vurderer mat blir selv vurdert (mer sannsynlig)
