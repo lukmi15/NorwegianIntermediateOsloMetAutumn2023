@@ -39,9 +39,21 @@
 	* Det var mørkt da jeg gikk til skolen.
 	* Det er mørkt når jeg går til skolen.
 	* Det skal bli regn når vi skal på ferie.
-* I leddsetninger med atbrukes 
+* Untakk på adjektivbøyingsregler:
+	* Ajektiver med -ig, -sk og nasjonaladjektivene har ikke -t på intetkjønnsformen
+	* Ajektiver med -e og -a bøyes ikke
+	* Ajektiver med -el, -er og -en bruker andre former, som f.e. -ne,  på flertallsformen
+	* Ajektiver med lange vokaler bruker -tt på intetkjønnsformen
+	* "annen":
+		* en annen dag
+		* ei anna jakka
+		* et annet hus
+		* mange andre dager/jakker/hus
 
 * Lekser:
+	* Lese i tekstboka side 154-157
+	* Oppgave 1-4 side 174-176 i arbeidsboka
+	* Oppgave 8 side 177 i arbeidsboka
 * Spørsmål:
 	* Svart:
 		* Fins det en regl når ord kan sluttes med -a?
