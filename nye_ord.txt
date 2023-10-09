@@ -57,7 +57,7 @@
 * Verker det? = Gjør hele kroppen vond?
 * Hva feiler det deg? = Hva er i veien?
 * å verke = gjør vondt
-* et bryst, brystet, bryster, brystene #Ikke brytser
+* et bryst, brystet, bryst, brystene #Ikke bryster
 * legget = Beina mellom kneet og foten
 * en tommel(finger)
 * en pekefinger
@@ -73,3 +73,12 @@
 * ei hake = Kinn
 * en ånde = puste
 * trett = trøtt
+* et øyebryn
+* et skjegg
+* en bart
+* å skli, klir, sklei/skled/sklidde, har sklidd
+* å tråkke, tråkker, tråkket, har tråkket
+* en sugetablett
+* en malerkoste = Pinsel
+* en koste = Besen
+* å skynde, skynder, skyndet/skyndet, har skyndet/skyndt

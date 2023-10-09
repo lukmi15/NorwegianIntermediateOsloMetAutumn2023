@@ -51,7 +51,10 @@
 		* mange andre dager/jakker/hus
 
 * Lekser:
+	* Gjøre ferdig testen
+	* Sjekke svar på Canvas
 * Spørsmål:
+	* Hva betyr "mange om beinet"?
 	* Svart:
 		* Fins det en regl når ord kan sluttes med -a?
 			> For verber er det dialekt - det funker med alle verbene
@@ -69,3 +72,8 @@
 			* Det har dobbelt betydning:
 				* De som vurderer mat blir politianmeldt (mindre sannsynlig)
 				* De som vurderer mat blir selv vurdert (mer sannsynlig)
+		* Er "ligningskontoret" en god oversettelse til "tax office"?
+			* Ja
+		* Hva er et "verv"? Uttales det som "varv" eller "verv"?
+			* Som "varv"
+			* Noe du bli valgt til å normaltvis ikke får penger for, f.eks. økonomiansvarlig
