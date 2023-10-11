@@ -99,3 +99,5 @@
 * en kasserolle = ei gryte
 * ei vifte = det som suger inn liften nå du steker
 * ei flis = det du har på veggen i badet eller kjøkkenet
+* et maleri
+* slitt = preget av å blitt brukt lenge
