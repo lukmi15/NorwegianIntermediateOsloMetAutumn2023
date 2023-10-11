@@ -51,8 +51,6 @@
 		* mange andre dager/jakker/hus
 
 * Lekser:
-	* Gjøre ferdig testen
-	* Sjekke svar på Canvas
 * Spørsmål:
 	* Hva betyr "mange om beinet"?
 	* Svart:
