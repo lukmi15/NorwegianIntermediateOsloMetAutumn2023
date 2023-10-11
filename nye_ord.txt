@@ -82,3 +82,20 @@
 * en malerkoste = Pinsel
 * en koste = Besen
 * å skynde, skynder, skyndet/skyndet, har skyndet/skyndt
+* et loft = et rom i taket
+* en kommode = et skap i soverommet
+* ei vaskemaskin = maskin for å vaske klær
+* en tørketrommel = maskin for å tørke klær
+* en vask = som håndvask men
+* ei skuffe = noe du kan trekke ut av et skap
+* en komfyr = ei {koke,steke}plate + en ovnen
+* en støvsuger
+* ei pute = det du ligger på med hodet i senga
+* et laken det du ligger på med kroppen i senga, ikke hodet
+* ei dyne = det du dekker deg til med i senga
+* et dynetrekk = det du putt
+* et putetrekk = det du putter over puta
+* et pledd = tynn dyne
+* en kasserolle = ei gryte
+* ei vifte = det som suger inn liften nå du steker
+* ei flis = det du har på veggen i badet eller kjøkkenet

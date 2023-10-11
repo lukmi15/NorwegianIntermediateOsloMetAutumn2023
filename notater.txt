@@ -49,10 +49,17 @@
 		* ei anna jakka
 		* et annet hus
 		* mange andre dager/jakker/hus
+* Komparativ og superlativer
+	* Adjektiver med mer enn en stavelse eller -sk på slutten bruker mer ... og mest ...
 
 * Lekser:
+	* Lese i tekstboka side 169-170
+	* Oppgave 2-3 side 190
+	* Oppgave 5 side 191
+	* Oppgave 7 side 192
+	* Oppgave 9-13 side 193-196
+	* Oppgave 4-6 side 204
 * Spørsmål:
-	* Hva betyr "mange om beinet"?
 	* Svart:
 		* Fins det en regl når ord kan sluttes med -a?
 			> For verber er det dialekt - det funker med alle verbene
@@ -75,3 +82,5 @@
 		* Hva er et "verv"? Uttales det som "varv" eller "verv"?
 			* Som "varv"
 			* Noe du bli valgt til å normaltvis ikke får penger for, f.eks. økonomiansvarlig
+		* Hva betyr "mange om beinet"?
+			* Mange vil konkurere
