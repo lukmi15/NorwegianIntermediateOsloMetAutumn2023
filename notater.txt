@@ -78,3 +78,5 @@
 			* Noe du bli valgt til å normaltvis ikke får penger for, f.eks. økonomiansvarlig
 		* Hva betyr "mange om beinet"?
 			* Mange vil konkurere
+		* Hva er tegnet man får når man trykker på knappen til høyre av å på den norske tastaturen?
+			* Vet ikke

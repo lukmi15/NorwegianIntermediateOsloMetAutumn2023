@@ -1,0 +1,13 @@
+# vim: ft=sh nospell
+#Bruke komparativ og superlativ!
+
+Norge:
+* Flere fjell
+* Kaldere
+* Mer snø og is
+* Miljøvennligere strøm
+* Mindre store politiske partier
+* Færre mennesker
+* Dyrere mat
+* Høyest nord i Europa etter Grønland
+* Bedre internetforbindelse
