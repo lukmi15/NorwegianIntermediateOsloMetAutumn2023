@@ -1,0 +1,4 @@
+barnehage
+barneskole
+ungdomsskole
+vidergående
