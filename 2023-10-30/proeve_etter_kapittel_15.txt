@@ -1,0 +1,143 @@
+B:
+4:
+siden
+mellom
+venstre
+høyre
+nærheten
+=> 5 av 5 poeng
+
+5:
+barneskolen
+ungdomsskolen
+barnehage
+videregående
+høyskolen
+=> 5 av 5 poeng
+
+6:
+gym/kroppsøving
+matematikk
+HLRE f: sammfunnsfag
+biologi
+norsk
+=> 4 av 5 poeng
+
+7:
+julemat
+vinterklær
+ullklær
+påskeferie
+familiefest
+=> 5 av 5 poeng
+
+8:
+over
+vei
+ut
+best
+rett
+par
+ro
+av
+enig
+seg
+=> 10 av 10 poeng
+
+9:
+står
+ligger
+går
+lagt
+legger f: setter
+setter f: legger
+=> 4 av 6 poeng
+==> 33 av 36
+
+C:
+10:
+fin
+fint
+fine
+fine
+finere
+fineste
+=> 6 av 6 poeng
+
+11:
+billigere/rimeligere
+lettere/enklere
+nyere
+yngere
+mindre
+=> 5 av 5 poeng
+
+12:
+varmt f: varmere
+varmt
+varmere
+eldst
+eldst
+eldere f: eldre
+størst
+stor
+større
+minst
+mindre
+liten
+=> 10 av 12 poeng
+
+13:
+som heter Kvikk
+som er svart og brun
+som er ganske gammel
+som han er glad i
+han går tur med f: som han går tur med
+=> 4 av 5 poeng
+
+14:
+har fri i jula
+de gleder seg til jul f: gleder seg til jul
+skal besøke naboene sine
+skal spise pinnekjøtt
+ikke feirer påske
+=> 4 av 5 poeng
+
+15:
+hvor hun bor
+når hun kommer
+om hun kommer
+hvorfor hun ikke kommer
+om hun ikke liker ham
+=> 5 av 5 poeng
+
+16:
+mange
+flere
+mange f: mye
+flere f: mer
+mye
+mer
+=> 4 av 6 poeng
+==> 39 av 44
+
+
+D:
+17:
+Maren og Sigve
+bryllup
+barna til Geir og Silje
+14. mai
+svare på invitasjonen
+=> 5 av 5 poeng
+
+18:
+vinter
+foreldrene
+kontaktlærer
+kake
+ca. klokka halv åtte
+holde en kort tale
+=> 6 av 6 poeng
+==> 11 av 11 poeng
+===> 83 av 91 ≈ 91%

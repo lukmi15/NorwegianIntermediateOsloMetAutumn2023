@@ -1,0 +1,20 @@
+a:
+hun er glad i jobben sin
+hun liker seg på jobb
+arbeidet sitt er interessant
+hun snakker med kundene sine
+kundene sine er fornøyde
+
+b:
+han er glad i jobben sin
+han liker seg på jobb
+arbeidet sitt er interessant
+han snakker med kundene sine
+kundene sine er fornøyde
+
+c:
+de er glade i jobbene sine
+de liker seg på jobb
+arbeidet deres er interessant
+de snakker med kundene deres
+kundene deres er fornøyde
