@@ -58,6 +58,9 @@
 	* Hva er et utedress? (teskstbok s. 179)
 	* Hva er fo^r? (teskstbok s. 179)
 	* Hvilken yrke er "snekke"? (tekstbok s. 184)
+	* Skjønner fortsatt ikke når man bruker preteritum og når perfektum
+		* Eksempel: tekstbok side 211: "Har du fått ny jobb"
+			* Spørsmålet er om han fikk en ny jobb eller ei, ikke om han er ferdig med prosessen, eller?
 	* Svart:
 		* Fins det en regl når ord kan sluttes med -a?
 			> For verber er det dialekt - det funker med alle verbene
