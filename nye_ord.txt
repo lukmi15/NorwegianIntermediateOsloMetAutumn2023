@@ -114,3 +114,8 @@
 * et smykke = en gjenstand som man kan ha på seg for å pynte seg, "Schmuck"
 * svigerforeldrene
 * å avspasere = ha fritid etter å ha arbeidet overtid
+* å sovne = overgang fra våken til sovende tilstand
+* a = a
+* r = err
+* e = är
+* æ = a men munden litt mindre åpen
